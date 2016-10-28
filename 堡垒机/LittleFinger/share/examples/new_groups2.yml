@@ -1,0 +1,15 @@
+
+bj_group:
+  #bind_hosts:
+  #  - h1
+  #  - h2
+  user_profiles:
+    - alex
+
+sh_group:
+  user_profiles:
+    - jack
+    - alex
+    - rain
+
+

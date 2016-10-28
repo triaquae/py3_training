@@ -1,0 +1,11 @@
+
+web_devteam:
+  bind_hosts:
+    - server1
+    - server2
+  user_profiles:
+    - alex
+    - rain
+    - jack
+
+
