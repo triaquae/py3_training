@@ -117,7 +117,7 @@ def interactive(acc_data):
         user_option = input(">>:").strip()
         if user_option in menu_dic:
             print('accdata',acc_data)
-            acc_data['is_authenticated'] =False
+            #acc_data['is_authenticated'] = False
             menu_dic[user_option](acc_data)
 
         else:
