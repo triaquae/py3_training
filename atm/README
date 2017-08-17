@@ -35,5 +35,4 @@ day5-atm/
 │       ├── __init__.py
 │       ├── access.log #用户访问和操作的相关日志
 │       └── transactions.log    #所有的交易日志
-└── shopping_mall #电子商城程序,需单独实现
-    └── __init__.py
+└── shopping--==============
